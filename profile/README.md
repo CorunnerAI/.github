@@ -51,14 +51,9 @@ We help create a clearer operating rhythm across the tools, people, and workflow
 
 ---
 
-## Platform at a Glance
+## Platform at a High Level
 
-| What we focus on | Why it matters |
-| --- | --- |
-| AI-powered business operations | We’re building a more intelligent operating layer for day-to-day work |
-| Existing team tools | We work where your team already works |
-| Human coordination | We’re designed around the work that happens between people |
-| Execution flow | We help teams keep momentum across ongoing work |
+We’re building Corunner around a simple idea: work should run where teams already work, stay close to human collaboration, and move with more operational intelligence.
 
 ---
 
@@ -81,20 +76,11 @@ We’re building Corunner to help make that future practical.
 
 ## Get Started
 
-| Action | Link |
-| --- | --- |
-| Visit Corunner | [corunner.ai](https://corunner.ai/) |
-| Join the Waitlist | Start at [corunner.ai](https://corunner.ai/) |
-| Request a Demo | Start at [corunner.ai](https://corunner.ai/) |
-| Contact Sales | Start at [corunner.ai](https://corunner.ai/) |
-| Documentation | Start at [corunner.ai](https://corunner.ai/) |
-
----
-
-## Connect
-
-- Website: [corunner.ai](https://corunner.ai/)
-- GitHub: [@CorunnerAI](https://github.com/CorunnerAI)
+- [**Visit Corunner**](https://corunner.ai/)
+- **Join the Waitlist** via [corunner.ai](https://corunner.ai/)
+- **Request a Demo** via [corunner.ai](https://corunner.ai/)
+- **Contact Sales** via [corunner.ai](https://corunner.ai/)
+- **Documentation** via [corunner.ai](https://corunner.ai/)
 
 ---
 
