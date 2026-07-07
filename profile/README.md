@@ -2,70 +2,80 @@
 
 # Corunner AI
 
-### The AI-powered business operating system that lives inside the tools your team already uses and operates the work between humans.
+### Welcome to Corunner.
 
-[![Website](https://img.shields.io/badge/Website-corunner.ai-0A0A0A?style=flat-square)](https://corunner.ai/)
-[![Organization](https://img.shields.io/badge/GitHub-@CorunnerAI-181717?style=flat-square&logo=github)](https://github.com/CorunnerAI)
+**We’re building an AI-powered business operating system that lives inside the tools your team already uses and operates the work between humans.**
+
+[![Website](https://img.shields.io/badge/Website-corunner.ai-111111?style=flat-square)](https://corunner.ai/)
+[![GitHub](https://img.shields.io/badge/GitHub-@CorunnerAI-181717?style=flat-square&logo=github)](https://github.com/CorunnerAI)
 
 </div>
 
 ---
 
-## About Corunner
+## Our Mission
 
-Corunner AI is positioned as an AI-powered business operating system for teams that need clearer execution across people, systems, and ongoing work.
-
-It is designed for founders, CTOs, engineering leaders, product leaders, and enterprise decision-makers who want operations to happen inside the tools their teams already use.
-
-Corunner focuses on the coordination layer between humans and work, helping teams reduce operational friction and keep execution moving.
+We believe the future of work depends on a better operating layer between people, tools, and execution.
 
 ---
 
-## Why Teams Choose Corunner (Operational Outcomes)
+## Welcome to Corunner.
 
-| Outcome | What It Helps With |
-| --- | --- |
-| Faster execution | Keeps work operating between teams without adding another disconnected workflow layer |
-| Better operational clarity | Brings AI-powered operating structure to business processes |
-| Lower tool friction | Works inside existing tools your team already uses |
-| Human + AI alignment | Supports execution across human collaboration and AI-assisted operations |
+We’re building Corunner for teams that want work to move with more clarity, better coordination, and less operational drag.
+
+Instead of asking teams to adopt yet another disconnected system, we bring an AI-powered operating layer into the tools they already use.
 
 ---
 
-## Core Capabilities
+## What We’re Building
 
-- **AI-powered business operating system**
-- **Operates within existing team tools**
-- **Coordinates work between humans**
-- **Designed to support cross-functional execution**
+We’re building a business operating system designed to support the work that happens between humans.
+
+That means creating a stronger layer for coordination, execution, and operational flow—without pulling teams away from the systems they already rely on.
+
+---
+
+## Why We Exist
+
+We exist because modern work does not break down in one place. It breaks down in the handoffs, the decisions, the follow-through, and the gaps between people and systems.
+
+We’re focused on that layer.
 
 ---
 
 ## Built for Modern Teams
 
-Corunner supports both startup and enterprise teams that need to scale execution quality without scaling operational complexity.
+Whether you're moving fast as a startup or coordinating across a larger organization, we’re building Corunner to help teams run with more consistency and less friction.
 
-By focusing on how work moves between people and systems, teams can improve alignment, collaboration, and decision velocity.
-
----
-
-## Integrations
-
-Corunner publicly positions itself as operating **inside the tools teams already use**.
-
-For the latest integration details and supported systems, visit the official website:
-
-- [Explore integrations on corunner.ai](https://corunner.ai/)
+We help create a clearer operating rhythm across the tools, people, and workflows that drive day-to-day execution.
 
 ---
 
-## Why Corunner
+## Platform at a Glance
 
-Corunner is built for teams that need a stronger operating layer without replacing their current stack:
+| What we focus on | Why it matters |
+| --- | --- |
+| AI-powered business operations | We’re building a more intelligent operating layer for day-to-day work |
+| Existing team tools | We work where your team already works |
+| Human coordination | We’re designed around the work that happens between people |
+| Execution flow | We help teams keep momentum across ongoing work |
 
-- **Operate where work already happens** to reduce adoption friction.
-- **Create consistent execution rhythms** across cross-functional teams.
-- **Improve decision confidence** with clearer operational flow between people and systems.
+---
+
+## Key Capabilities
+
+- **Operate inside the tools your team already uses**
+- **Support the work that happens between humans**
+- **Create a stronger layer for execution and coordination**
+- **Bring AI into the operating flow of the business**
+
+---
+
+## Our Vision
+
+We see a future where businesses run with far more context, coordination, and intelligence—without forcing teams into rigid systems or fragmented workflows.
+
+We’re building Corunner to help make that future practical.
 
 ---
 
@@ -73,27 +83,29 @@ Corunner is built for teams that need a stronger operating layer without replaci
 
 <div align="center">
 
-- [**Visit Corunner**](https://corunner.ai/)
-- [**Join Waitlist**](https://corunner.ai/?intent=waitlist)
-- [**Request Demo**](https://corunner.ai/?intent=demo)
-- [**Contact Sales**](https://corunner.ai/?intent=sales)
-- [**Documentation**](https://corunner.ai/?intent=docs)
+[**Visit Corunner**](https://corunner.ai/)
 
-All actions are available from the official Corunner website entry point.
+[**Join the Waitlist**](https://corunner.ai/)
+
+[**Request a Demo**](https://corunner.ai/)
+
+[**Contact Sales**](https://corunner.ai/)
+
+[**Documentation**](https://corunner.ai/)
 
 </div>
 
 ---
 
-## Connect With Us
+## Connect
 
 - Website: [corunner.ai](https://corunner.ai/)
-- GitHub Organization: [@CorunnerAI](https://github.com/CorunnerAI)
+- GitHub: [@CorunnerAI](https://github.com/CorunnerAI)
 
 ---
 
 <div align="center">
 
-Built by **Corunner AI** — enabling modern teams to operate work where it actually happens.
+**Build with us. Run your business smarter.**
 
 </div>
