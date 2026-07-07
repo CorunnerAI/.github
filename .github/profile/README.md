@@ -5,7 +5,7 @@
 ### The AI-powered business operating system that lives inside the tools your team already uses and operates the work between humans.
 
 [![Website](https://img.shields.io/badge/Website-corunner.ai-0A0A0A?style=flat-square)](https://corunner.ai/)
-[![Organization](https://img.shields.io/badge/GitHub-@corunnerai-181717?style=flat-square&logo=github)](https://github.com/CorunnerAI)
+[![Organization](https://img.shields.io/badge/GitHub-@CorunnerAI-181717?style=flat-square&logo=github)](https://github.com/CorunnerAI)
 
 </div>
 
@@ -78,7 +78,7 @@ Corunner’s value is business-first: help teams execute more effectively, reduc
 ## Connect With Us
 
 - Website: [corunner.ai](https://corunner.ai/)
-- GitHub Organization: [@corunnerai](https://github.com/CorunnerAI)
+- GitHub Organization: [@CorunnerAI](https://github.com/CorunnerAI)
 
 ---
 
