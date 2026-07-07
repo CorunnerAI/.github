@@ -19,7 +19,7 @@ We believe the future of work depends on a better operating layer between people
 
 ---
 
-## Welcome to Corunner.
+## What We’re Building For
 
 We’re building Corunner for teams that want work to move with more clarity, better coordination, and less operational drag.
 
@@ -83,15 +83,15 @@ We’re building Corunner to help make that future practical.
 
 <div align="center">
 
-[**Visit Corunner**](https://corunner.ai/)
+[**Visit Corunner**](https://corunner.ai/?source=github-profile&action=visit)
 
-[**Join the Waitlist**](https://corunner.ai/)
+[**Join the Waitlist**](https://corunner.ai/?source=github-profile&action=waitlist)
 
-[**Request a Demo**](https://corunner.ai/)
+[**Request a Demo**](https://corunner.ai/?source=github-profile&action=demo)
 
-[**Contact Sales**](https://corunner.ai/)
+[**Contact Sales**](https://corunner.ai/?source=github-profile&action=sales)
 
-[**Documentation**](https://corunner.ai/)
+[**Documentation**](https://corunner.ai/?source=github-profile&action=docs)
 
 </div>
 
