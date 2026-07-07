@@ -23,7 +23,7 @@ Corunner focuses on the coordination layer between humans and work, helping team
 
 ## Why Teams Choose Corunner
 
-| Outcome | What it helps with |
+| Outcome | What It Helps With |
 |---|---|
 | Faster execution | Keeps work operating between teams without adding another disconnected workflow layer |
 | Better operational clarity | Brings AI-powered operating structure to business processes |
@@ -61,7 +61,11 @@ For the latest integration details and supported systems, visit the official web
 
 ## Why Corunner
 
-Corunner helps organizations turn fragmented execution into an operating model that is clearer, faster, and easier to scale.
+Corunner is built for teams that need a stronger operating layer without replacing their current stack:
+
+- **Operate where work already happens** to reduce adoption friction.
+- **Create consistent execution rhythms** across cross-functional teams.
+- **Improve decision confidence** with clearer operational flow between people and systems.
 
 ---
 
