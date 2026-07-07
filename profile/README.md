@@ -17,56 +17,38 @@
 
 We believe the future of work depends on a better operating layer between people, tools, and execution.
 
----
-
-## What We’re Building For
-
-We’re building Corunner for teams that want work to move with more clarity, better coordination, and less operational drag.
-
-Instead of asking teams to adopt yet another disconnected system, we bring an AI-powered operating layer into the tools they already use.
+We’re building Corunner for teams that want work to move with more clarity, better coordination, and less operational drag—without replacing the systems they already rely on.
 
 ---
 
 ## What We’re Building
 
-We’re building a business operating system designed to support the work that happens between humans.
+We’re focused on the layer where modern work actually breaks down: the handoffs, the decisions, the follow-through, and the gaps between people and systems.
 
-That means creating a stronger layer for coordination, execution, and operational flow—without pulling teams away from the systems they already rely on.
-
----
-
-## Why We Exist
-
-We exist because modern work doesn't break down in one place. It breaks down in the handoffs, the decisions, the follow-through, and the gaps between people and systems.
-
-We’re focused on that layer.
+By bringing an AI-powered operating layer into existing team tools, we help create a stronger flow for coordination, execution, and day-to-day operational rhythm.
 
 ---
 
 ## Built for Modern Teams
 
-Whether you're moving fast as a startup or coordinating across a larger organization, we’re building Corunner to help teams run with more consistency and less friction.
+Whether you're moving fast as a startup or coordinating across a larger organization, we’re building Corunner to help work move with more consistency and less friction.
 
-We help create a clearer operating rhythm across the tools, people, and workflows that drive day-to-day execution.
-
----
-
-## Platform at a High Level
-
-We’re building Corunner around a simple idea: work should run where teams already work, stay close to human collaboration, and move with more operational intelligence.
+We help teams stay close to the tools they already use while building a clearer operating rhythm across ongoing work.
 
 ---
 
 ## Key Capabilities
 
-- **Operate inside the tools your team already uses**
-- **Support the work that happens between humans**
-- **Create a stronger layer for execution and coordination**
-- **Bring AI into the operating flow of the business**
+| Capability | What it means |
+| --- | --- |
+| Works inside existing tools | We operate where your team already works |
+| Supports human coordination | We’re designed around the work that happens between people |
+| Strengthens execution flow | We help teams keep momentum across ongoing work |
+| Adds an AI operating layer | We bring more intelligence into the flow of the business |
 
 ---
 
-## Our Vision
+## Our Vision for the Future of Work
 
 We see a future where businesses run with far more context, coordination, and intelligence—without forcing teams into rigid systems or fragmented workflows.
 
@@ -76,11 +58,7 @@ We’re building Corunner to help make that future practical.
 
 ## Get Started
 
-- [**Visit Corunner**](https://corunner.ai/)
-- **Join the Waitlist** via [corunner.ai](https://corunner.ai/)
-- **Request a Demo** via [corunner.ai](https://corunner.ai/)
-- **Contact Sales** via [corunner.ai](https://corunner.ai/)
-- **Documentation** via [corunner.ai](https://corunner.ai/)
+Visit [**corunner.ai**](https://corunner.ai/) to explore Corunner, join the waitlist, request a demo, contact sales, and access documentation as it becomes publicly available.
 
 ---
 
