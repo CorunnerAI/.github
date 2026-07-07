@@ -61,7 +61,7 @@ For the latest integration details and supported systems, visit the official web
 
 ## Why Corunner
 
-Corunner’s value is business-first: help teams execute more effectively, reduce coordination overhead, and turn day-to-day operations into a reliable system that scales.
+Corunner helps organizations turn fragmented execution into an operating model that is clearer, faster, and easier to scale.
 
 ---
 
@@ -70,6 +70,8 @@ Corunner’s value is business-first: help teams execute more effectively, reduc
 <div align="center">
 
 [**Visit Corunner**](https://corunner.ai/) • [**Join Waitlist**](https://corunner.ai/) • [**Request Demo**](https://corunner.ai/) • [**Contact Sales**](https://corunner.ai/) • [**Documentation**](https://corunner.ai/)
+
+All actions are available from the official Corunner website entry point.
 
 </div>
 
