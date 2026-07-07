@@ -24,7 +24,7 @@ Corunner focuses on the coordination layer between humans and work, helping team
 ## Why Teams Choose Corunner
 
 | Outcome | What It Helps With |
-|---|---|
+| --- | --- |
 | Faster execution | Keeps work operating between teams without adding another disconnected workflow layer |
 | Better operational clarity | Brings AI-powered operating structure to business processes |
 | Lower tool friction | Works inside existing tools your team already uses |
@@ -73,7 +73,7 @@ Corunner is built for teams that need a stronger operating layer without replaci
 
 <div align="center">
 
-[**Visit Corunner**](https://corunner.ai/) • [**Join Waitlist**](https://corunner.ai/) • [**Request Demo**](https://corunner.ai/) • [**Contact Sales**](https://corunner.ai/) • [**Documentation**](https://corunner.ai/)
+[**Visit Corunner**](https://corunner.ai/) • [**Join Waitlist**](https://corunner.ai/?intent=waitlist) • [**Request Demo**](https://corunner.ai/?intent=demo) • [**Contact Sales**](https://corunner.ai/?intent=sales) • [**Documentation**](https://corunner.ai/?intent=docs)
 
 All actions are available from the official Corunner website entry point.
 
