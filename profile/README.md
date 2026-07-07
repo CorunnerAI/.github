@@ -37,7 +37,7 @@ That means creating a stronger layer for coordination, execution, and operationa
 
 ## Why We Exist
 
-We exist because modern work does not break down in one place. It breaks down in the handoffs, the decisions, the follow-through, and the gaps between people and systems.
+We exist because modern work doesn't break down in one place. It breaks down in the handoffs, the decisions, the follow-through, and the gaps between people and systems.
 
 We’re focused on that layer.
 
@@ -81,19 +81,13 @@ We’re building Corunner to help make that future practical.
 
 ## Get Started
 
-<div align="center">
-
-[**Visit Corunner**](https://corunner.ai/?source=github-profile&action=visit)
-
-[**Join the Waitlist**](https://corunner.ai/?source=github-profile&action=waitlist)
-
-[**Request a Demo**](https://corunner.ai/?source=github-profile&action=demo)
-
-[**Contact Sales**](https://corunner.ai/?source=github-profile&action=sales)
-
-[**Documentation**](https://corunner.ai/?source=github-profile&action=docs)
-
-</div>
+| Action | Link |
+| --- | --- |
+| Visit Corunner | [corunner.ai](https://corunner.ai/) |
+| Join the Waitlist | Start at [corunner.ai](https://corunner.ai/) |
+| Request a Demo | Start at [corunner.ai](https://corunner.ai/) |
+| Contact Sales | Start at [corunner.ai](https://corunner.ai/) |
+| Documentation | Start at [corunner.ai](https://corunner.ai/) |
 
 ---
 
