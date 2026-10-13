@@ -1,69 +1,89 @@
 <div align="center">
 
-# Corunner AI
+# Meet Corunner, Your AI Coworker
 
-### Welcome to Corunner.
+### An AI coworker that runs alongside every employee, helping them find answers, automate work, and accomplish more every day.
 
-**We’re building an AI-powered business operating system that lives inside the tools your team already uses and operates the work between humans.**
+**Less time searching. Less time on repetitive tasks. More time doing meaningful work.**
 
-[![Website](https://img.shields.io/badge/Website-corunner.ai-111111?style=flat-square)](https://corunner.ai/)
-[![GitHub](https://img.shields.io/badge/GitHub-@CorunnerAI-181717?style=flat-square&logo=github)](https://github.com/CorunnerAI)
+[![Explore Corunner](https://img.shields.io/badge/Explore_Corunner-ff570a?style=for-the-badge)](https://corunner.ai/)
+[![Get Started](https://img.shields.io/badge/Get_Started-171717?style=for-the-badge)](https://corunner.ai/)
 
 </div>
 
 ---
 
-## Our Mission
+## An AI Coworker for Everyone
 
-We believe the future of work depends on a better operating layer between people, tools, and execution.
+Good work shouldn't slow down because an answer is buried in a document, an update is scattered across tools, or a repetitive task takes another hour.
 
-We’re building Corunner for teams that want work to move with more clarity, better coordination, and less operational drag—without replacing the systems they already rely on.
+**Corunner runs alongside your team, right where work happens.** Ask a question, get the context you need, or let Corunner help move a task forward. From engineers and support teams to sales and new joiners, everyone gets an AI coworker to help them make progress.
 
----
+Corunner doesn't ask employees to learn another daily-use dashboard. It works through familiar tools such as **Slack, Microsoft Teams, Jira, Linear, GitHub, Notion, and Confluence**, alongside other connected systems. An admin connects the organization's tools, and employees work with Corunner in their existing workflow.
 
-## What We’re Building
+## What Can You Do With Corunner?
 
-We’re focused on the layer where modern work actually breaks down: the handoffs, the decisions, the follow-through, and the gaps between people and systems.
-
-By bringing an AI-powered operating layer into existing team tools, we help create a stronger flow for coordination, execution, and day-to-day operational rhythm.
-
----
-
-## Built for Modern Teams
-
-Whether you're moving fast as a startup or coordinating across a larger organization, we’re building Corunner to help work move with more consistency and less friction.
-
-We help teams stay close to the tools they already use while building a clearer operating rhythm across ongoing work.
-
----
-
-## Key Capabilities
-
-| Capability | What it means |
+| What you need | How Corunner helps |
 | --- | --- |
-| Works inside existing tools | We operate where your team already works |
-| Supports human coordination | We’re designed around the work that happens between people |
-| Strengthens execution flow | We help teams keep momentum across ongoing work |
-| Adds an AI operating layer | We bring more intelligence into the flow of the business |
+| **Find answers without hunting** | Ask about projects, product features, past decisions, documentation, tickets, and code across connected tools. |
+| **Get repetitive work off your plate** | Automate routine updates, follow-ups, standups, and other recurring tasks. |
+| **Solve problems faster** | Investigate production issues using connected code, tickets, and observability data to surface relevant evidence. |
+| **Keep work moving** | Get project context, identify blockers, coordinate follow-ups, and create or update work items with appropriate permissions and approvals. |
+| **Get up to speed quickly** | Help new joiners find the people, decisions, documentation, and context they need to start contributing. |
+| **Stay focused on what matters** | Spend less time switching between tools and chasing information, and more time on work that moves your goals forward. |
 
----
+## Built for Every Role
 
-## Our Vision for the Future of Work
+**👩‍💻 Engineering:** Understand code and past decisions, plan work, investigate bugs, and debug production issues with evidence.
 
-We see a future where businesses run with far more context, coordination, and intelligence—without forcing teams into rigid systems or fragmented workflows.
+**🎧 Customer Support:** Find accurate product context and relevant issue history so customers get answers faster.
 
-We’re building Corunner to help make that future practical.
+**🤝 Sales:** Understand product capabilities, find answers to customer questions, and stay informed as the product changes.
 
----
+**🚀 New Joiners:** Ask questions freely, understand ongoing projects, and start making meaningful contributions sooner.
 
-## Get Started
+**📋 Team Leads and Managers:** Get visibility into progress, dependencies, and blockers while reducing manual status checks and follow-ups.
 
-Visit [**corunner.ai**](https://corunner.ai/) to explore Corunner, join the waitlist, request a demo, contact sales, and access documentation as it becomes publicly available.
+**🌍 Everyone Else:** Find what you need, automate routine work, and move forward without waiting for someone to point you in the right direction.
+
+## Work With Corunner Where You Already Work
+
+Corunner brings useful organizational context together from the systems your company connects. Instead of searching through different apps or asking the same question in multiple channels, you can ask your AI coworker in the tools you already use.
+
+For example:
+
+> **"What was the reason behind this feature decision?"**  
+> Corunner helps find the relevant discussions and documentation.
+
+> **"Help me investigate this production error."**  
+> Corunner can examine available logs and code context and help surface supporting evidence.
+
+> **"Summarize what's changed in this project."**  
+> Corunner helps pull together relevant updates and work items.
+
+> **"Follow up on these open tasks every morning."**  
+> Corunner can help set up recurring workflows, with permissions and approvals where required.
+
+The goal isn't to replace your teammates. **It's to help every teammate spend more time doing their best work.**
+
+## Why We're Building Corunner
+
+Teams have more tools and more information than ever, yet everyday work can still feel unnecessarily hard. Knowledge gets scattered. Repetitive tasks pile up. People spend time finding context rather than acting on it.
+
+We believe every employee deserves a coworker that helps them keep moving.
+
+**That's why we're building Corunner:** an AI coworker that runs alongside people, connects the context they need, and helps them accomplish more together.
 
 ---
 
 <div align="center">
 
-**Build with us. Run your business smarter.**
+### Your next step starts here.
+
+**Bring an AI coworker alongside your team.**
+
+[**Explore Corunner →**](https://corunner.ai/)
+
+[Website](https://corunner.ai/) · [GitHub](https://github.com/CorunnerAI)
 
 </div>
