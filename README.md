@@ -1,2 +1,2 @@
 # .github
-An AI-powered business operating system that lives inside the tools your team already uses and operates the work between humans.
+Corunner is an AI coworker that runs alongside every employee, helping them find answers, automate work, and accomplish more every day.
